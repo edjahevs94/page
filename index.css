@@ -1,0 +1,23 @@
+h2 {
+    color: rgb(14, 15, 14);
+    
+}
+
+.container-fluid {
+    margin-top: 10px;
+    margin-left: 20px;
+   /* display: flex;
+    flex-direction: column;
+    gap: 10px; */
+
+}
+.input-text {
+    border: 1px solid #ced4da;
+}
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
